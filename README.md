@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey there! 👋
+I'm Aswin, Transportation engineer working on data-driven analysis of public transport crowding.
 
-<!--
-**aswinjayaraj2001-dot/aswinjayaraj2001-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Research interests
+Public transport crowding and passenger burden
+Crowding valuation and perceived travel time
+Transit operations and service design (skip-stop, limited-stop)
+Large-scale passive transit data: electronic ticketing, GTFS, AV
 
-Here are some ideas to get you started:
+### Current work
+Passenger Crowding Burden in urban bus networks. A framework that turns ticketing data into segment-level crowding burden and evaluates targeted skip-stop operation. 
+Interactive landslide susceptibility mapping dashboard. A web tool (Python back end, React.js front end) for the Western Ghats that generates district-level susceptibility maps from stored and user-uploaded geospatial layers. Built with a doctoral researcher at IIT Roorkee.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+Python (pandas, NumPy, GeoPandas, machine-learning and plotting libraries) · R · React.js · ArcGIS · QGIS · PTV VISSIM
+
+### Contact
+aswinjayaraj2001@gmail.com · LinkedIn
