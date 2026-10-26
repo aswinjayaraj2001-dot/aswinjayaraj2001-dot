@@ -13,6 +13,3 @@ Interactive landslide susceptibility mapping dashboard. A web tool (Python back 
 
 ### Tools
 Python (pandas, NumPy, GeoPandas, machine-learning and plotting libraries) · R · React.js · ArcGIS · QGIS · PTV VISSIM
-
-### Contact
-aswinjayaraj2001@gmail.com · LinkedIn
